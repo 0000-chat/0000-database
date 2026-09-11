@@ -17,6 +17,7 @@ expected = {
     "0000-product.json",
     "AGENTS.md",
     "README.md",
+    "docs/PRODUCT_VISION.md",
     "docs/README.md",
     "scripts/check",
 }
