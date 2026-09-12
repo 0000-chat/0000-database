@@ -18,6 +18,7 @@ expected = {
     "AGENTS.md",
     "README.md",
     "docs/README.md",
+    "docs/research/standalone-pilot-baseline.md",
     "docs/agents/domain.md",
     "docs/agents/issue-tracker.md",
     "docs/agents/triage-labels.md",
